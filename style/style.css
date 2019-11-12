@@ -1,0 +1,17 @@
+.aaa {
+    background: blue;
+    color: #fff;
+}
+body {
+    margin: 0;
+}
+
+button {
+    padding: 8px;
+}
+.button_ok {
+    background: #eee;
+}
+.button_ok:hover {
+    background: #4ee;
+}
